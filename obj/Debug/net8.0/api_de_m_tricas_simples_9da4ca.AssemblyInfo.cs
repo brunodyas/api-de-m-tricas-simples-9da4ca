@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api_de_m_tricas_simples_9da4ca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a27bb6617f4960818b8dcc5d5be0f50bd07d01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27a45e8084473af10de68399dd9d927c79e87154")]
 [assembly: System.Reflection.AssemblyProductAttribute("api_de_m_tricas_simples_9da4ca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api_de_m_tricas_simples_9da4ca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

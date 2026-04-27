@@ -2,3 +2,13 @@ D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\obj\Debug\net8.0\ap
 D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\obj\Debug\net8.0\api_de_m_tricas_simples_9da4ca.AssemblyInfoInputs.cache
 D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\obj\Debug\net8.0\api_de_m_tricas_simples_9da4ca.AssemblyInfo.cs
 D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\obj\Debug\net8.0\api_de_m_tricas_simples_9da4ca.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\bin\Debug\net8.0\api_de_m_tricas_simples_9da4ca.exe
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\bin\Debug\net8.0\api_de_m_tricas_simples_9da4ca.deps.json
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\bin\Debug\net8.0\api_de_m_tricas_simples_9da4ca.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\bin\Debug\net8.0\api_de_m_tricas_simples_9da4ca.dll
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\bin\Debug\net8.0\api_de_m_tricas_simples_9da4ca.pdb
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\obj\Debug\net8.0\api_de_m_tricas_simples_9da4ca.dll
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\obj\Debug\net8.0\refint\api_de_m_tricas_simples_9da4ca.dll
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\obj\Debug\net8.0\api_de_m_tricas_simples_9da4ca.pdb
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\obj\Debug\net8.0\api_de_m_tricas_simples_9da4ca.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\api-de-m-tricas-simples-9da4ca\obj\Debug\net8.0\ref\api_de_m_tricas_simples_9da4ca.dll
